@@ -2,7 +2,7 @@
 
 ## I'm MAURO MANUEL (IT engineer)
 
-### Tester QA, Linux Essential, Junior Developer and Junior DevOps 
+### Tester QA, Linux Essential, Junior Developer(web e Mobile) and Junior DevOps 
 
 - 🔭 I’m currently working on Java | Kotlin | Android 
 - 🌱 I’m currently learning: ReactJS | PHP | Linux Administrator | Finance |  English
