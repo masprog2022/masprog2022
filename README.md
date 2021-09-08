@@ -5,7 +5,7 @@
 ### Tester QA, Linux Essential, Junior Developer(web e Mobile) and Junior DevOps 
 
 - 🔭 I’m currently working on Java | Kotlin | Android 
-- 🌱 I’m currently learning: ReactJS | PHP | Linux Administrator | Finance |  English
+- 🌱 I’m currently learning: ReactJS | Typscript | SpringBoot | Linux Administrator | Finance |  English
 - 💬 General knowledge in web development...
 - 😄 Language: Portuguese
 
