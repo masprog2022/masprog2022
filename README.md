@@ -5,7 +5,7 @@
 ### Tester QA, Linux Essential, Junior Backend Developer and Junior DevOps 
 
 - 🔭 I’m currently working on Java | Spring Boot | Nodejs 
-- 🌱 I’m currently learning: ReactJS | Linux Administrator | Finance |  English
+- 🌱 I’m currently learning: Reactjs | Linux Administrator | Finance |  English
 
 
 
