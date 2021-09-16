@@ -2,12 +2,12 @@
 
 ## I'm MAURO MANUEL (IT engineer)
 
-### Tester QA, Linux Essential, Junior Developer(web e Mobile) and Junior DevOps 
+### Tester QA, Linux Essential, Junior Backend Developer and Junior DevOps 
 
-- 🔭 I’m currently working on Java | Kotlin | Android 
-- 🌱 I’m currently learning: ReactJS | Typscript | SpringBoot | Linux Administrator | Finance |  English
-- 💬 General knowledge in web development...
-- 😄 Language: Portuguese
+- 🔭 I’m currently working on Java | Spring Boot | Nodejs 
+- 🌱 I’m currently learning: ReactJS | Linux Administrator | Finance |  English
+
+
 
 <div>
   <a href="https://github.com/rafaballerini">
