@@ -2,10 +2,10 @@
 
 ## I'm MAURO MANUEL (IT engineer)
 
-### Tester QA, Junior Developer and Junior DevOps 
+Junior Developer
 
-- 🔭 I’m currently working on Java | Spring Boot | Nodejs 
-- 🌱 I’m currently learning: Reactjs | Linux Administrator | Finance |  English
+- 🔭 I’m currently learnin frontend: Reactjs
+- 🌱 I’m currently learning backend:  Nodejs | Java | Spring Boot 
 
 
 
