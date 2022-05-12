@@ -4,8 +4,8 @@
 
 Junior Developer
 
-- 🔭 I’m currently learnin frontend: Reactjs
-- 🌱 I’m currently learning backend:  Nodejs | Java | Spring Boot 
+- 🔭 frontend: Reactjs
+- 🌱 backend:  Nodejs
 
 
 
