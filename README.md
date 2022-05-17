@@ -2,7 +2,7 @@
 
 ## I'm MAURO MANUEL (IT engineer)
 
-Junior Developer
+Fullstack Developer
 
 - 🔭 frontend: Reactjs
 - 🌱 backend:  Nodejs
