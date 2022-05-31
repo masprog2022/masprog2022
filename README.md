@@ -1,6 +1,6 @@
 # Hi, Welcome to my Profile!
 
-## I'm MAURO MANUEL (IT engineer)
+## I'm MAURO MANUEL
 
 Fullstack Developer
 
