@@ -2,10 +2,9 @@
 
 ## I'm MAURO MANUEL
 
-Fullstack Developer
+Dev
 
-- 🔭 frontend: Reactjs
-- 🌱 backend:  Nodejs
+- 🔭 frontend & Backend
 
 
 
