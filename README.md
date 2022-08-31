@@ -1,35 +1,43 @@
-# Hi, Welcome to my Profile!
+### Hello I'm Mauro Manuel
+<hr>
 
-## I'm MAURO MANUEL
+- 🔭 Interested in working as a front-end & backend developer.
+- 🌱 I'm currently learning about (react, next, styled-components, typescript, java, spring boot, Nodejs, AWS, Figma, adobe XD ... and more)
 
-Dev
-
-- 🔭 frontend & Backend
-
-
-
-  <div>
-  <a href="https://github.com/adilsonfuta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masprog2022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masprog2022&layout=compact&langs_count=16&theme=dracula"/>
+<br>
+ <div>
+  <a href="https://github.com/masprog2022">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=masprog2022&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masprog2022&layout=compact&langs_count=6&theme=swift"/>
 </div>
 
-## About me ...
+<br>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/masprog2022)](https://github.com/masprog2022)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gentilpinto/)](https://www.linkedin.com/in/mauro-manuel-522947b2/)
-[![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/mauro.manuel.7399)](https://www.facebook.com/mauro.manuel.7399/)
+<div style="display: inline-block">
+  <img align="center" alt="Calebe-Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Calebe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Calebe-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Calebe-Js" height="26" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Calebe-Ts" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+
+ 
+
+  <img align="center" alt="Calebe-Js" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Calebe-Ts" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Calebe-HTML" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Calebe-CSS" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Calebe-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" alt="Calebe-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  
+</div>
+ 
+ <br><br>
+
+<div> 
+<a href="https://https://www.linkedin.com/in/mauro-manuel-522947b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href = "masprog2022@gmail"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
-
-
-
-
-
-
-- Thanks for visiting. :heart:
-
-<!---
-masprog2022/masprog2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
