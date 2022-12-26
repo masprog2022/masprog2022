@@ -1,8 +1,8 @@
 ### Hello I'm Mauro Manuel
 <hr>
 
-- 🔭 Interested in working as a front-end & backend developer.
-- 🌱 I'm currently learning about (react, next, styled-components, typescript, java, spring boot, Nodejs, AWS, Figma, adobe XD ... and more)
+- 🔭 Interested in working as a backend developer.
+- 🌱 I'm currently learning about (java, spring boot, PostgresSQL, Mysql, docker, AWS, CI/CD, Testes unitários,  integração e E2E, microserviços,   ... and more)
 
 <br>
  <div>
@@ -14,7 +14,7 @@
 <br>
 
 <div style="display: inline-block">
-  <img align="center" alt="Calebe-Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+  
   <img align="center" alt="Calebe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Calebe-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Calebe-Js" height="26" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
@@ -27,7 +27,6 @@
   <img align="center" alt="Calebe-Ts" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Calebe-HTML" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Calebe-CSS" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Calebe-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Calebe-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   
 </div>
