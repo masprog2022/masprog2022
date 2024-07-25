@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 Interested in working as a backend developer.
-- 🌱 I'm currently learning about (java, spring boot, PostgresSQL, Mysql, docker, AWS, CI/CD, Testes unitários,  integração e E2E, microserviços,   ... and more)
+- 🌱 I'm currently learning about (java, spring boot, PostgresSQL, Mysql, docker, AWS, Azure, CI/CD, Testes unitários,  integração e E2E, microserviços,   ... and more)
 
 <br>
  <div>
